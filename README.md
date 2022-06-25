@@ -2,10 +2,12 @@
 Works for Desktop mode and emulators.
 
 Requirements:
+
     I. .ovpn cert from a private server of your choice. (this is not a guide on hosting an OpenVPN Private server for PPSSPP on SteamDeck)
     II. For the sake of simplicity please leave your .ovpn file in your Downloads folder. You may move it wherever you wish after.
 
 Steps:
+
     I. Enter the command `passwd` to create a root password. Do not forget it. 
     
     II. Make SteamOS readable: `sudo steamos-readonly disable`
