@@ -22,13 +22,16 @@ Steps:
     
     VII. If required packages are done installing and there were no error messages displayed enter the following.
     
-    VIII. Navigate to your downloads in terminal using `cd`, `ls`, and `cd Downloads/`. Alternatively, you may simply browse to that file path in dolphin, right click in             the filespace, and select "open in terminal"
+    VIII. Navigate to your downloads in terminal using `cd`, `ls`, and `cd Downloads/`. Alternatively, you may simply browse to that file path in dolphin, right click in             
+    the filespace, and select "open in terminal"
     
     IX. Enter the following into terminal: `nmcli connection import type openvpn file YOUR.ovpn` You should see a confirmation in the bottom right hand side of your screen.
     
-    VIII. Navigate to your downloads in terminal using 'cd', 'ls', and `cd Downloads/`. Alternatively, you may simply browse to that file path in dolphin, right click in             the filespace, and select "open in terminal"
+    VIII. Navigate to your downloads in terminal using 'cd', 'ls', and `cd Downloads/`. Alternatively, you may simply browse to that file path in dolphin, right click in             
+    the filespace, and select "open in terminal"
     
-    IX. Enter the following into terminal: 'nmcli connection import type openvpn file YOUROVPN.ovpn' You should see a confirmation in the bottom right hand side of your             screen.
+    IX. Enter the following into terminal: 'nmcli connection import type openvpn file YOUROVPN.ovpn' You should see a confirmation in the bottom right hand side of your             
+    screen.
 
     X. IMPORTANT make steamos readonly: `sudo steamos-readonly enable`
 
