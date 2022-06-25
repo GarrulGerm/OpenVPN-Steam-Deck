@@ -1,15 +1,11 @@
 # OpenVPN-Steam-Deck
 Works for Desktop mode and emulators.
 
-
-1. .ovpn cert from a private server of your choice. (this is not a guide on hosting an OpenVPN Private server for PPSSPP on SteamDeck)
-2. For the sake of simplicity please leave your .ovpn file in your Downloads folder. You may move it wherever you wish after.
+Requirements:
+    I. .ovpn cert from a private server of your choice. (this is not a guide on hosting an OpenVPN Private server for PPSSPP on SteamDeck)
+    II. For the sake of simplicity please leave your .ovpn file in your Downloads folder. You may move it wherever you wish after.
 
 Steps:
-1. Navigate to the desktop environment on your Steam Deck and download PPSSPP from the discover tab
-2. In "Applications" under "System" Select "Konsole" and enter the following commands to enable package installation on your SteamDeck.
-
-    
     I. Enter the command `passwd` to create a root password. Do not forget it. 
     
     II. Make SteamOS readable: `sudo steamos-readonly disable`
